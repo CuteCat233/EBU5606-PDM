@@ -3,3 +3,6 @@ Product Development.log
 Product Development.synctex.gz
 *.fdb_latexmk
 *.fls
+*.aux
+*.log
+*.gz
